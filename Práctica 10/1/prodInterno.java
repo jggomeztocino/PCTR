@@ -29,7 +29,7 @@ public class prodInterno {
         int size = 4;
 
         /**
-         * Vectores a utilizar para calcular el producto interno.
+         * Vectores a utilizar para calcular el producto interno.2
          * El tamaño será proporcional al número de procesos
          */
         int[] vector1 = new int[size];
